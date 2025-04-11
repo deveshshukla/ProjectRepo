@@ -3,10 +3,14 @@ Repo of all the project work ill created, In practice or for a client. It contai
 
 ## Projects
 
-| No. | Project name and link                                                                                                                                                       | Repo                                                                                                                                                 |
+| No. | Project & Live link                                                                                                                                                  
+      | Repo (Src File)                                                                                                                                      |
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | [DiceRivalry Game Project](https://deveshshukla.github.io/DiceRivalry/)                                                                                                     | [Link to GitHub repo](https://github.com/deveshshukla/DiceRivalry)                                                                                   |
 | 2   | [Guess the number Project](https://deveshshukla.github.io/Guess-the-number-project/)                                                                                        | [Link to GitHub repo](https://github.com/deveshshukla/Guess-the-number-project)                                                                      |
+| 3   | [Bankist Minimal Bank Project](https://deveshshukla.github.io/BankistMinimalBank/)                                                                   |           
+        [Link to GitHub repo](https://github.com/deveshshukla/BankistMinimalBank)                                                                            |
+
 
 ## Author
 
@@ -18,10 +22,4 @@ Repo of all the project work ill created, In practice or for a client. It contai
 
 ## 📝 License
 
-Copyright © 2025 [Devesh Shukla](https://github.com/deveshshukla).
-
----
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
+Copyright © 2025 [Devesh Shukla](https://github.com/deveshshukla)
