@@ -8,8 +8,8 @@ Repo of all the project work ill created, In practice or for a client. It contai
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | [DiceRivalry Game Project](https://deveshshukla.github.io/DiceRivalry/)                                                                                                     | [Link to GitHub repo](https://github.com/deveshshukla/DiceRivalry)                                                                                   |
 | 2   | [Guess the number Project](https://deveshshukla.github.io/Guess-the-number-project/)                                                                                        | [Link to GitHub repo](https://github.com/deveshshukla/Guess-the-number-project)                                                                      |
-| 3   | [Bankist Minimal Bank Project](https://deveshshukla.github.io/BankistMinimalBank/)                                                                   |           
-        [Link to GitHub repo](https://github.com/deveshshukla/BankistMinimalBank)                                                                            |
+| 3   | [Bankist Minimal Bank Project](https://deveshshukla.github.io/BankistMinimalBank/)                                                                              
+      |  [Link to GitHub repo](https://github.com/deveshshukla/BankistMinimalBank)                                                                           |
 
 
 ## Author
